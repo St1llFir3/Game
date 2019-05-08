@@ -1,0 +1,24 @@
+<resources>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="title_activity_display_name">DisplayName</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_accumulator">Accumulator</string>
+    <string name="game_name">Pandas and Bamboo</string>
+    <string name="button_multi">Play</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_p2p_button">P2P On/Off</string>
+    <string name="discover_peers_button">Discover</string>
+    <string name="disconnect_peer_button">Disconnect</string>
+    <string name="client_message_button">Client Message</string>
+    <string name="server_message_button">Server Message</string>
+    <string name="label_me">ME</string>
+    <string name="label_peers">PEERS</string>
+    <string name="empty"></string>
+    <string name="client_text">client_text</string>
+    <string name="group_owner_text">group_owner_text</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="app_name">Start Activity</string>
+    <string name="empty_message">No devices found. Turn on P2P and perform discovery from the Action Bar</string>
+</resources>
